@@ -1,3 +1,4 @@
 # sample
-watch sample
-modified
+watch sample  
+modified  
+merged
