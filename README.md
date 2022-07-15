@@ -1,5 +1,6 @@
 # sample
 watch sample  
 modified  
-merged
+merged  
 commit
+a
